@@ -26,6 +26,7 @@ addthis:
 fancybox: true
 
 google_analytics:
+baidu_analytics: true
 rss: /atom.xml
 
 comment_provider: facebook
